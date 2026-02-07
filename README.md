@@ -1,7 +1,7 @@
 
 
-<a href="https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/RASA_Medical_Chatbot/DSE%20Group%20Project%20%20%20Group%2022_1080p.mp4">
-    <img src="https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/RASA_Medical_Chatbot/Homepage.png" alt="Watch the video" width="600" height="300">
+<a href="https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/RASA_Medical_Chatbot/DSE%20Group%20Project%20%20%20Group%2022_1080p.mp4">
+    <img src="https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/RASA_Medical_Chatbot/Homepage.png" alt="Watch the video" width="600" height="300">
 </a>
 
 
@@ -89,7 +89,7 @@ The chatbot intelligently detects user intents and fills slots to provide tailor
 
 ## 🖼️ Screenshots
 
-![Chat Interface](https://filedn.eu/lVNP1DcGQUE5OPMMHbPaQeb/RASA_Medical_Chatbot/chatbot_UI.png)
+![Chat Interface](https://filedn.eu/lKBQ3k74oxYj0kgKuxh2wfS/RASA_Medical_Chatbot/chatbot_UI.png)
 
 ## 👥 Contribution Guidelines
 
